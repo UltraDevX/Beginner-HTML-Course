@@ -1,4 +1,8 @@
-# This is the code for the Beginner HTML Course of the youtube channel UltraDevX
+# This is the code for the Beginner HTML Course of the youtube channel UltraDevX.
+
+Without HTML there would be no websites. So earning HTML simplified by UltraDevX. Newer courses with updated content will come.
+
+Videos:
 
 <div>
     <a href="https://www.youtube.com/watch?v=3nl0C2tuLvw">Text</a>
