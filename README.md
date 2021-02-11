@@ -1,6 +1,6 @@
 # This is the code for the Beginner HTML Course of the youtube channel UltraDevX.
 
-Without HTML there would be no websites. So earning HTML simplified by UltraDevX. Newer courses with updated content will come.
+Without HTML there would be no websites. So learning HTML simplified by UltraDevX. Newer courses with updated content will come.
 
 Videos:
 
